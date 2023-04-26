@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+      <title>Bootstrap cards design</title>
+      <meta charset="UTF-8">
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="author" content="Vincy">
+      <link href= "css/custom.css" rel="stylesheet"> 
+</head>
+        
+<body>
+    
+    <div class="container">
+        <div class="navbar">   
+            <img src="C:/Users/CRS/Desktop/sailing_design/sailing_logo.png" class="logo">
+            <ul>
+                <li> <a href="#"> HOME </a> </li>
+                <li> <a href="#"> ABOUT </a> </li>
+				<li> <a href="#"> EVENTS </a> </li>
+			    <li> <a href="#"> PLACES </a> </li>
+                <li> <a href="#"> CONTACT US </a> </li>                
+            </ul>
+
+        </div>
+        <div class="content">
+               <h1>Sale Away </h1>
+               <p>Offering Complete Boat Repair & Maintenance Services</p>
+        
+               <div>
+                  <button type="button"><span></span> watch more</button>
+                  <button type="button"><span></span> more info</button>
+               </div>
+
+       </div>
+    
+    </div>
+        
+  </body>
+      
+</html>
+    

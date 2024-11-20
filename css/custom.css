@@ -72,7 +72,7 @@ body
 	line-height: 1.9;
 }
 
-
+/*
 .carousel-inner:before 
 {
 	content: '';
@@ -84,7 +84,7 @@ body
 	background: rgba(0, 0, 0, 0.7);
 	z-index: 1;
 }
-
+*/
 .navbar 
 {
 	background: #106eea;
